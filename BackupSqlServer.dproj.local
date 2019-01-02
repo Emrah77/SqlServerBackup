@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.920,=C:\Users\EMRAH\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.014,=C:\Users\EMRAH\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,D:\_Delphi\_ADOV3\BackupSqlServer\MainYedek.pas=D:\_Delphi\_ADOV3\BackupSqlServer\MainBackup.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,=C:\Users\EMRAH\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,D:\_Delphi\_ADOV3\BackupSqlServer\Baglanti.pas=D:\_Delphi\_ADOV3\BackupSqlServer\Connections.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,D:\_Delphi\_ADOV3\BackupSqlServer\MainYedek.dfm=D:\_Delphi\_ADOV3\BackupSqlServer\MainBackup.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.297,D:\_Delphi\_ADOV3\YedeklemeVerilab\Baglanti.pas=D:\_Delphi\_ADOV3\YedeklemeVerilab\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,D:\_Delphi\_ADOV3\BackupSqlServer\Baglanti.dfm=D:\_Delphi\_ADOV3\BackupSqlServer\Connections.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,D:\_Delphi\_ADOV3\YedeklemeVerilab\MainYedek.dfm=C:\Users\EMRAH\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,D:\_Delphi\_ADOV3\YedeklemeVerilab\MainYedek.pas=C:\Users\EMRAH\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,=D:\_Delphi\_ADOV3\YedeklemeVerilab\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.297,D:\_Delphi\_ADOV3\YedeklemeVerilab\Baglanti.dfm=D:\_Delphi\_ADOV3\YedeklemeVerilab\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,D:\_Delphi\_ADOV3\YedeklemeVerilab\Verilab_Yedekleme.dproj=C:\Users\EMRAH\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,D:\_Delphi\_ADOV3\BackupSqlServer\Verilab_Yedekleme.dproj=D:\_Delphi\_ADOV3\BackupSqlServer\BackupSqlServer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
